@@ -1,4 +1,4 @@
-# TryHackMe Hands-on Hacking: Intro to Offensive Security
+#Intro to Offensive Security
 
 ##Task 1: What is OFfensive Security?
 
