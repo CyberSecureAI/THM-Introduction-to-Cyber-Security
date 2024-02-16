@@ -1,4 +1,4 @@
-# TryHackMe Hands-on Hacking
+# TryHackMe Hands-on Hacking: Intro to Offensive Security
 
 In short, offensive security is the process of breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access to them.
 To beat a hacker, you need to behave like a hacker, finding vulnerabilities and recommending patches before a cybercriminal does, as you'll do in this room!
