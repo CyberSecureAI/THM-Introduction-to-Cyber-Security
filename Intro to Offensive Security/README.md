@@ -1,3 +1,3 @@
 # Intro to Offensive Security
 
-https://tryhackme.com/room/introtooffensivesecurity
+To Follow along - Join the lab from the TryHackMe Site: https://tryhackme.com/room/introtooffensivesecurity
