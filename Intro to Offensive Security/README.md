@@ -10,6 +10,7 @@ To Follow along - Join the lab from the TryHackMe Site: https://tryhackme.com/ro
 
 
 In short, offensive security is the process of breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access to them.
+
 To beat a hacker, you need to behave like a hacker, finding vulnerabilities and recommending patches before a cybercriminal does, as you'll do in this room!
 
 ![bluehat](https://github.com/CyberSecureAI/THM-Introduction-to-Cyber-Security/assets/159320436/abcaa88e-83aa-4fb6-9a88-c1367732d58c)
@@ -21,5 +22,5 @@ In a defensive cyber role, you could be investigating infected computers or devi
 Answer the questions below
 
 Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?
-1. Offensive Security
+**1. Offensive Security**
 2. Defensive Security
