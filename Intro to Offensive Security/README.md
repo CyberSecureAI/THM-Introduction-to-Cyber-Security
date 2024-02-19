@@ -24,5 +24,4 @@ Answer the questions below
 Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?
 
 1. **Offensive Security**
-
 2. Defensive Security
