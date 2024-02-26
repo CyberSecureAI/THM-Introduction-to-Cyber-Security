@@ -12,6 +12,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
+#### Youtube Walkthrough: https://youtu.be/rjF6bQVT7m4
+
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
