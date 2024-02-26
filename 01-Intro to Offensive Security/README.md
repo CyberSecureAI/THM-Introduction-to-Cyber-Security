@@ -2,6 +2,7 @@
 
 To Follow along - Join the lab from the TryHackMe Site: https://tryhackme.com/room/introtooffensivesecurity
 
+YT Walkthrough: https://youtu.be/B-Mtn7xqpfQ
 
 ## Task 1: What is Offensive Security?
 
